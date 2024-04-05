@@ -1,7 +1,7 @@
 <div align="center">
 
 <h2>Hi, I'm Max</h2>
-<p>I'm a 16 year old developer, and I like making Minecraft stuff.</p>
+<p>I'm a 17 year old developer, and I like making Minecraft stuff.</p>
 
 <h3>Tools</h3>
 <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /></a>
