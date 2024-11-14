@@ -19,7 +19,7 @@
 <a href="https://www.mongodb.com"><img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" /></a>
 <a href="https://mongoosejs.com"><img height="32" width="32" src="https://cdn.simpleicons.org/mongoose" /></a>
 
-<h3>Stats</h3>
+<h3>stats</h3>
 <img align="center" width="400" height="145" src="https://github-readme-stats.vercel.app/api?username=mpschorr" />
 <img align="center" width="445" height="145" src="https://streak-stats.demolab.com/?user=mpschorr" />
 <br>
