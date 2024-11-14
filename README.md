@@ -1,9 +1,9 @@
 <div align="center">
 
-<h2>Hi, I'm Max</h2>
-<p>I'm a 17 year old developer, and I like making Minecraft stuff.</p>
+<h2>hi im max</h2>
+<p>17 year old developer, i work with mc & web stuff</p>
 
-<h3>Tools</h3>
+<h3>stack</h3>
 <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /></a>
 <a href="https://www.typescriptlang.org"><img height="32" width="32" src="https://cdn.simpleicons.org/typescript" /></a>
 <a href="https://www.python.org"><img height="32" width="32" src="https://cdn.simpleicons.org/python" /></a>
@@ -23,6 +23,6 @@
 <img align="center" width="400" height="145" src="https://github-readme-stats.vercel.app/api?username=mpschorr" />
 <img align="center" width="445" height="145" src="https://streak-stats.demolab.com/?user=mpschorr" />
 <br>
-<p align="center"><i>If I broke my streak feel free to make fun of me 😭</i></p>
+<p align="center"><i>going for a new record wee woo</i></p>
 
 </div>
