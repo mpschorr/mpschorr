@@ -1,7 +1,7 @@
 <div align="center">
 
-<h2>hi im max</h2>
-<p>17 year old developer, i work with mc & web stuff</p>
+<h2>hi im Melina</h2>
+<p>17 year old developer, i work with Minecraft & Web Development</p>
 
 <h3>stack</h3>
 <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /></a>
@@ -23,6 +23,7 @@
 <img align="center" width="400" height="145" src="https://github-readme-stats.vercel.app/api?username=mpschorr" />
 <img align="center" width="445" height="145" src="https://streak-stats.demolab.com/?user=mpschorr" />
 <br>
-<p align="center"><i>going for a new record wee woo</i></p>
+<p align="center"><i>going for a new record wee woo :3</i></p>
+<p align="center"><i>and im going to max out my cuteness hehe :3</i></p>
 
 </div>
